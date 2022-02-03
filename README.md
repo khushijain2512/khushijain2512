@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khushijain2512
 - 👀 I’m interested in competitive programming.
-- 🌱 I’m currently learning subset of ML,i.e, Deep Learning.
+- 🌱 I’m currently learning Deep Learning.
 - 💞️ I’m looking to collaborate with others on OPS.
 - 📫 You can reach me by my email id: jainkhushi0507@gmail.com
 
